@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### 👋 Hi there , I am Ziad Ahmed [ZiadAhmed10]
+---------------------------------------------------------
+## Data Analyst
 <!--
 **ZiadAhmed10/ZiadAhmed10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
