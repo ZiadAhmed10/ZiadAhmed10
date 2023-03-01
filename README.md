@@ -1,8 +1,13 @@
 ### 👋 Hi there , I am Ziad Ahmed [ ZiadAhmed10 ]
 ---------------------------------------------------------
-## Data Analyst📊
----------------------------------------------------------
-I am committed, self-disciplined and anlaytical person with a huge passion towards Data Analysis field, Also I am an ITI graduate from Data Analysis track with a bachelor's degree of computer and artificial intelligence from Beni-Suef university.
+<p align="center">
+    <img width="400" src="https://user-images.githubusercontent.com/121814714/222189810-23ce992a-17a7-427c-bae7-253f3ae6ac1e.gif" alt="Material Bread logo">
+</p>
+
+<h1 align="center">Data Analyst📊</h1>
+
+I am committed, self-disciplined and anlaytical person with a huge passion towards Data Analysis field, 
+Also I am an ITI graduate from Data Analysis track with a bachelor's degree of computer and artificial intelligence from Beni-Suef university.
 
 I have a good data analysis experience in non-profit organization with a strong knowledge at:
 - Statistics & Probability
@@ -28,7 +33,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reac3h me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
