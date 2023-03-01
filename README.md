@@ -11,7 +11,7 @@ I have a good data analysis experience in non-profit organization with a strong 
 - Analytical SQL 
 - EXCEL
 - Power BI
-
+------------------------------------------------------------------------------
 ### You can check my dashboard portolfio here : https://ziadahmed.journoportfolio.com/#/ 📈
 
 ## 🔗 Get In Touch
