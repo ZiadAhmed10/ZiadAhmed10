@@ -1,6 +1,6 @@
 ### 👋 Hi there , I am Ziad Ahmed [ ZiadAhmed10 ]
 ---------------------------------------------------------
-## Data Analyst
+## Data Analyst📊
 ---------------------------------------------------------
 I am committed, self-disciplined and anlaytical person with a huge passion towards Data Analysis field, Also I am an ITI graduate from Data Analysis track with a bachelor's degree of computer and artificial intelligence from Beni-Suef university.
 
@@ -11,6 +11,8 @@ I have a good data analysis experience in non-profit organization with a strong 
 - Analytical SQL 
 - EXCEL
 - Power BI
+
+### You can check my dashboard portolfio here : https://ziadahmed.journoportfolio.com/#/ 📈
 
 ## 🔗 Get In Touch
 <a href="mailto:zaidahmed12300@gmail.com"><img alt="Gmail" title="Ziad Ahmed's Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
