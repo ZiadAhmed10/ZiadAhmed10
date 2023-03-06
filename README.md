@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there , I am Ziad Ahmed and I'm an Data Analyst 📊</h1>
+<h1 align="center">👋 Hi there , I am Ziad Ahmed and I'm a Data Analyst 📊</h1>
 
 <p align="center">
     <img width="400" src="https://user-images.githubusercontent.com/121814714/222189810-23ce992a-17a7-427c-bae7-253f3ae6ac1e.gif" alt="Material Bread logo">
