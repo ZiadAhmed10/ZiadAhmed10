@@ -5,7 +5,7 @@
 </p>
 
 
-I am committed, self-disciplined and anlaytical person with +3 years of experience in the Data Analysis field, 
+I am committed, self-disciplined and anlaytical person with +3 years of experience in the world of anlytics,
 Also I am an ITI graduate from Data Analysis and visualization track with a bachelor's degree of computer and artificial intelligence from Beni-Suef university.
 
 I have a good data analysis experience in non-profit organization with a strong knowledge at:
