@@ -1,19 +1,22 @@
-<h1 align="center">👋 Hi there , I am Ziad Ahmed and I'm a Data Analyst 📊</h1>
+<h1 align="center">👋 Hi there , I am Ziad Ahmed and I'm a Senior Data Analyst @ Vodafone Egypt 📊</h1>
 
 <p align="center">
     <img width="400" src="https://user-images.githubusercontent.com/121814714/222189810-23ce992a-17a7-427c-bae7-253f3ae6ac1e.gif" alt="Material Bread logo">
 </p>
 
 
-I am committed, self-disciplined and anlaytical person with a huge passion towards Data Analysis field, 
-Also I am an ITI graduate from Data Analysis track with a bachelor's degree of computer and artificial intelligence from Beni-Suef university.
+I am committed, self-disciplined and anlaytical person with +3 years of experience in the Data Analysis field, 
+Also I am an ITI graduate from Data Analysis and visualization track with a bachelor's degree of computer and artificial intelligence from Beni-Suef university.
 
 I have a good data analysis experience in non-profit organization with a strong knowledge at:
 - Statistics & Probability
-- Pyhton for data analysis
+- Pyhton
+- Power BI
+- Tableau
 - SQL, PL/SQL
 - Analytical SQL 
-- EXCEL
+- MS EXCEL/ Advanced SQL
+- DWH/ ETL
 - Power BI
 ------------------------------------------------------------------------------
 ### You can check my dashboard portolfio here : https://ziadahmed.journoportfolio.com/#/ 📈
